@@ -22,3 +22,9 @@ To predict the future price variation, we implement a Bayesian Regression model 
 
 ## Results
 ![alt text](https://github.com/kdave97/Predicting-Bitcoin-Price-Variations/blob/master/results.JPG)
+
+## References
+1) Shah, Devavrat & Zhang, Kang. (2014). Bayesian regression and Bitcoin. 2014 52nd Annual Allerton Conference on Communication, Control, and Computing, Allerton 2014. 10.1109/ALLERTON.2014.7028484. 
+
+---- A more detailed explanation about the project is explained in Project-Bitcoin-Bayesian.Regression.pdf -----
+
