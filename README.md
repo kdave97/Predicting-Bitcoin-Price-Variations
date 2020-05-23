@@ -22,5 +22,3 @@ To predict the future price variation, we implement a Bayesian Regression model 
 
 ## Results
 ![alt text](https://github.com/kdave97/Predicting-Bitcoin-Price-Variations/blob/master/results.JPG)
-
-
